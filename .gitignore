@@ -1,5 +1,7 @@
 .streamlit/secrets.toml
 
+.venv-so2long/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
